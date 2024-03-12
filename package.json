@@ -1,0 +1,9 @@
+{
+  "name": "@mcvaysherry/tea-quest",
+  "version": "1.0.0",
+  "description": "Tea Quest",
+  "main": "index.js",
+  "author": "@mcvaysherry",
+  "repository": "https://github.com/mcvaysherry/tea-quest.git",
+  "license": "ISC"
+}
